@@ -1,0 +1,11 @@
+login:
+  title: Login  
+  password: password
+  button1: Login
+  ForgotPassword: Forgot Password
+  DontHaveAccount: You don't have an account?
+  Sign-in: Sign-In
+  line1: Client
+  line2: Contact
+  line3: Language
+  
